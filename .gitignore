@@ -1,0 +1,2 @@
+# Ignore the base version of SAGE (kept here for simplicity).
+sage/
